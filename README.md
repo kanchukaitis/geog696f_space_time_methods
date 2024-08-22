@@ -1,7 +1,7 @@
-# GEOG696F Python for Spatial and Temporal Data Science (the Advanced Methods and Techniques seminar)
+# GEOG696F Python for Spatial and Temporal Data Science 
 
 ## Overview
-This is a graduate course taught as GEOG696F (the 'Advanced Methods and Techniques' seminar in the School of Geography, Development, and Environment) at the University of Arizona.  The class was first taught in Fall 2024.  The full syllabus is available [here](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/geog696f_syllabus.pdf).
+This is a graduate statistics and programming course taught as GEOG696F, the '**Advanced Methods and Techniques**' seminar in the School of Geography, Development, and Environment) at the University of Arizona.  The class was first taught in Fall 2024.  The full syllabus is available [here](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/geog696f_syllabus.pdf).
 
 This course is designed as a graduate level class in a workshop format to give students a theoretical framework, practical experience, expert knowledge, and statistical tools for analyzing datasets that have a temporal and/or spatial dimensions. It is fundamentally about [building tools](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO500010) and practical understanding so that students can knowledgeably apply these techniques in their own research and their own data.  Topics include: basic and intermediate tools and procedures in Python, correlation, regression, Monte Carlo methods, time series analysis, spectral analysis, reduced space empirical orthogonal function/principal components analysis, interpolation, Gaussian processes, and Bayesian statistics.  The course encompasses instruction and training in Python and in the use and manipulation of large multi-dimensional datasets.
 
