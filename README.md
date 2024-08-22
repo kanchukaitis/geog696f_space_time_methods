@@ -1,4 +1,5 @@
-# GEOG696F Python for Spatial and Temporal Data Science (Advanced Methods and Techniques seminar)
+# GEOG696F Python for Spatial and Temporal Data Science 
+### The Advanced Methods and Techniques seminar
 
 ## Overview
 This is a graduate course taught as GEOG696F (the 'Advanced Methods and Techniques' seminar in the School of Geography, Development, and Environment) at the University of Arizona.  The class was first taught in Fall 2024.  The full syllabus is available [here](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/geog696f_syllabus.pdf).
