@@ -19,7 +19,7 @@ I personally use Anaconda, but instructions for installing via either are availa
 
 [This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks (note that this website [might not be available in the near future](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)). 
 
-[This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  We'll also go this **live** in class on August 24th. 
+[This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  If necessary, we'll also go this **live** in class the week of August 26th. 
 
 Here are the basic steps from the video:
 * Install Python using Miniconda (recommended for this class: https://docs.conda.io/en/main/miniconda.html) or the full individual Anaconda distribution (https://www.anaconda.com/download) for your operating system.  Both are free.  **Note that if you have an older operating system, the current versions of Miniconda might not work on your system.**  A simple comparison of the benefits and drawbacks of Anaconda vs. Miniconda can be found [here](https://www.earthdatascience.org/workshops/setup-earth-analytics-python/setup-git-bash-conda/).
