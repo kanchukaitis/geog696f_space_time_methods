@@ -38,7 +38,7 @@ I personally use Anaconda, but instructions for installing via either are availa
 
 [This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac. 
 
-[Here is an installation narrative we developed for a coding bootcamp](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/geog696f_installation_narrative.md) - it includes step-by-step instructions for installation using Miniconda as well as how to setup a virtual conda environment for this class, if you so choose. 
+[Here is an installation narrative we developed for a coding bootcamp](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/geog696f_installation_narrative.md) - it includes step-by-step instructions for installation using Miniconda as well as how to setup a virtual conda environment for this class, if you so choose.  There is a 17 minute [YouTube video](https://www.youtube.com/watch?v=PDZDK6QQ1q4) to accompanies this, which shows you step-by-step instructions as well (note you won't need to do everything in the video). 
 
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  If necessary, we'll also go this **live** in class the week of August 26th. 
 
