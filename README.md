@@ -6,9 +6,30 @@ This is a graduate statistics and programming course taught as GEOG696F, the '**
 This course is designed as a graduate level class in a workshop format to give students a theoretical framework, practical experience, expert knowledge, and statistical tools for analyzing datasets that have a temporal and/or spatial dimensions. It is fundamentally about [building tools](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO500010) and practical understanding so that students can knowledgeably apply these techniques in their own research and their own data.  Topics include: basic and intermediate tools and procedures in Python, correlation, regression, Monte Carlo methods, time series analysis, spectral analysis, reduced space empirical orthogonal function/principal components analysis, interpolation, Gaussian processes, and Bayesian statistics.  The course encompasses instruction and training in Python and in the use and manipulation of large multi-dimensional datasets.
 
 The major outcome for the class for each student will be a new and independent analysis of a substantial dataset using one or preferably more techniques from the course materials, a formal manuscript describing the motivation, methods, and results of this analysis, and a professional oral presentation.  Students are encouraged to bring with them or seek out data relevant to their research to use for their final project.  Ideally, students' final projects will provide the material for a thesis chapter and/or peer-reviewed article. 
+
+## General Schedule
+
+Augst 26 to September 4 - Python fundamentals
+
+September 9 to September 11 - Correlation
+
+September 16 to September 18 - Monte Carlo and stochastic simulation
+
+September 23 to September 25 - Regression in time and space
+
+September 30 to October 2 - Time series analysis
+
+October 7 to October 9 - Spectral analysis
+
+October 14 to October 16 - Reduced space methods
+
+October 21 to October 23 - Interpolation and Gaussian Processes
+
+October 28 to October 30 - Introduction to Bayesian statistics
+
  
 ## Why Python? 
-My own programming career started in FORTRAN and moved to MATLAB, a language I've now spent almost 25 years using effectively and (mostly) without complaint.   But with an increasing number of jobs for earth and environmental sciences student **outside** academia and the rise of Python as the _de facto_ language of data science, I've start to teach my data anlysis classes in Python.  This had involved some growing pains (for me!), but in the end I hope that the chance to learn statistical techniques in a language so widely used across so many fields will be worth the extra trouble for the students who take the class.  Particularly for earth and environmental scientists relatively new to Python, Martin Trauth's book [Python Recipes for Earth Sciences](https://link.springer.com/book/10.1007/978-3-031-07719-7) provides a useful and broad introduction solidly grounded in various types of analyses.  
+My own programming career started in FORTRAN and moved to MATLAB, a language I've now spent almost 25 years using effectively and (mostly) without complaint.   But with an increasing number of jobs for graduate students **outside** academia and with the rise of Python as the _de facto_ language of data science, I've start to teach my data anlysis classes in Python.  This had involved some growing pains (for me!), but in the end I hope that the chance to learn statistical techniques in a language so widely used across so many fields will be worth the extra trouble for the students who take the class.  Particularly for earth and environmental scientists relatively new to Python, Martin Trauth's book [Python Recipes for Earth Sciences](https://link.springer.com/book/10.1007/978-3-031-07719-7) provides a useful and broad introduction solidly grounded in various types of analyses.  
 
 ## Recommended Software Installation 
 [Anaconda](https://www.anaconda.com/download) is a package management software that downloads a number of packages for data analysis and exploration – including base Python – but is quite large.  Since not all packages are always required, a 'lite' version of Anaconda is also available called [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html).  Miniconda gives you base Python and allows for all the Anaconda management functions, but has a much smaller initial download size and installation time because it installs few packages (which means you'll need to install some packages not included in the installation). Once installed, both Anaconda or Miniconda will be referred to (and called from the shell, terminal, or command line) simply as `conda`.  A cheatsheet of `conda` commands can be found [here](https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html). 
@@ -16,8 +37,6 @@ My own programming career started in FORTRAN and moved to MATLAB, a language I'v
 I personally use Anaconda, but instructions for installing via either are available in the following links:
 
 [This page from DataCamp](https://www.datacamp.com/blog/how-to-install-python) contains useful and straightforward information on getting Python installed on both Windows and Mac.  
-
-[This page from Notable.io](https://noteable.io/jupyter-notebook/install-jupyter-notebook/) also provides simple instructions for getting up and running in Python and Jupyter notebooks (note that this website [might not be available in the near future](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)). 
 
 [This Youtube video](https://www.youtube.com/watch?v=h1sAzPojKMg&ab_channel=VisualStudioCode) from Visual Studio Code (the integrated coding environment we'll use in this class) can get you up and running pretty quickly. They show installation in Windows, so macOs will be slightly different.  If necessary, we'll also go this **live** in class the week of August 26th. 
 
