@@ -56,6 +56,15 @@ Unlike MATLAB and R (via RStudio), there is no single software package used for 
 
 It isn't important which IDE you chose. 
 
+## Getting Started with Python
+
+If you'd like some additional materials for getting started with Python, here are some possibilities:
+
+- DataCamp has many good online courses, which you can often get for free, including [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science), [Intermediate Python](https://www.datacamp.com/courses/intermediate-python), and [a whole lot more](https://www.datacamp.com/category/python?showAll=true).
+- There is a Software Carpentries [introductory Python tutorial](https://swcarpentry.github.io/python-novice-gapminder/)
+- University of Helsinki offers a [free online MOOC on Introduction to Python](https://programming-23.mooc.fi/)
+- Harvard's [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) from 2022 is available online for free 
+
 ## Github
 
 Although not strictly required for this course, I encourage you to use the capacity of Git and Github to streamline your access to and use of the notebooks created for this class, as well as advance your own development of reproducible and readily shareable code.  Here are some good places to start:
