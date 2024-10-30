@@ -82,6 +82,10 @@ Although not strictly required for this course, I encourage you to use the capac
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome). 
 
+## Interested in more? 
+
+I often GEOG 696C 'Spatiotemporal Data Analysis' next in Fall 2025. 
+
 ## Contact
 
 Did you find this course material useful?  Want to share ideas?  Find some bugs? Feel free to contact me at [kanchukaitis@arizona.edu](mailto:kanchukaitis@arizona.edu)
