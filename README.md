@@ -13,7 +13,7 @@ Augst 26 to September 4 - [Python fundamentals](https://github.com/kanchukaitis/
 
 September 9 to September 11 - [Correlation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/02_correlation)
 
-September 16 to September 18 - Monte Carlo and stochastic simulation
+September 16 to September 18 - [Monte Carlo and stochastic simulation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/03_monte_carlo)
 
 September 23 to September 25 - Regression in time and space
 
