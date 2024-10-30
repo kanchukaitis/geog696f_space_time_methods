@@ -56,6 +56,10 @@ Here are the basic steps from the video:
 * Within Visual Studio Code, install the Python extensions (from Microsoft)
 * Test your system 
 
+## Environment
+
+A environment.ylm file is provided in this repository which contains libraries, packages, and required dependencies for Fall 2024's version of the course. 
+
 ## Integrated Development Environments (IDE)
 
 Unlike MATLAB and R (via RStudio), there is no single software package used for Python development.  Indeed, you could develop Python with just text files and the command line.  In this class I will used [VS Code](https://code.visualstudio.com/), a free and multi-languages IDE.  You can also develop your code entirely in [Jupyter notebooks in your browser](https://www.codecademy.com/article/how-to-use-jupyter-notebooks) if you wish.  Another popular IDE is [PyCharm](https://www.jetbrains.com/pycharm/), which is excellent but not free.  Finally, there is now [Positron](https://github.com/posit-dev/positron), from the makers of RStudio - it is still in development, but looks promising. 
