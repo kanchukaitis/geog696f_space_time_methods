@@ -84,7 +84,7 @@ Although not strictly required for this course, I encourage you to use the capac
 
 ## Interested in more? 
 
-I often GEOG 696C 'Spatiotemporal Data Analysis' next in Fall 2025. 
+I ofter GEOG 696C 'Spatiotemporal Data Analysis' next in Fall 2025, which goes deeply into linear algebra for statistics, empirical orthogonal function (EOF) analysis, and singular spectrum analysis.  It is also taught in Python. 
 
 ## Contact
 
