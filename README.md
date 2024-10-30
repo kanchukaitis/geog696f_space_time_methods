@@ -21,11 +21,17 @@ September 30 to October 2 - [Time series analysis](https://github.com/kanchukait
 
 October 7 to October 9 - [Spectral analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/06_spectral_analysis)
 
-October 14 to October 16 - Reduced space methods
+October 14 to October 16 - [Reduced space methods](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/07_reduced_space)
 
 October 21 to October 23 - Interpolation and Gaussian Processes
 
 October 28 to October 30 - Introduction to Bayesian statistics
+
+November 4 to November 29 - Student project work
+
+December 2 to December 4 - Final presentations
+
+December 13 - Final project and paper due
 
  
 ## Why Python? 
