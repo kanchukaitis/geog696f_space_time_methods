@@ -11,7 +11,7 @@ The major outcome for the class for each student will be a new and independent a
 
 Augst 26 to September 4 - [Python fundamentals](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/01_python_fundamentals)
 
-September 9 to September 11 - Correlation
+September 9 to September 11 - [Correlation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/02_correlation)
 
 September 16 to September 18 - Monte Carlo and stochastic simulation
 
