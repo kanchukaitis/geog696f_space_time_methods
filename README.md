@@ -19,7 +19,7 @@ September 23 to September 25 - [Regression](https://github.com/kanchukaitis/geog
 
 September 30 to October 2 - [Time series analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/05_time_series)
 
-October 7 to October 9 - Spectral analysis
+October 7 to October 9 - [Spectral analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/06_spectral_analysis)
 
 October 14 to October 16 - Reduced space methods
 
