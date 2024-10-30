@@ -23,7 +23,7 @@ October 7 to October 9 - [Spectral analysis](https://github.com/kanchukaitis/geo
 
 October 14 to October 16 - [Reduced space methods](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/07_reduced_space)
 
-October 21 to October 23 - Interpolation and Gaussian Processes
+October 21 to October 23 - [Interpolation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/08_interpolation) and Gaussian Processes
 
 October 28 to October 30 - Introduction to Bayesian statistics
 
