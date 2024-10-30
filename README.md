@@ -58,7 +58,7 @@ Here are the basic steps from the video:
 
 ## Environment
 
-A environment.ylm file is provided in this repository which contains libraries, packages, and required dependencies for Fall 2024's version of the course. 
+A [environment.yml](https://github.com/kanchukaitis/geog696f_space_time_methods/blob/main/environment.yml) file is provided in this repository which allows users to create a [conda virtual environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) that included the libraries, packages, and required dependencies for Fall 2024's version of the course. 
 
 ## Integrated Development Environments (IDE)
 
