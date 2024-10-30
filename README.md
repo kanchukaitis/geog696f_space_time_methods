@@ -9,23 +9,29 @@ The major outcome for the class for each student will be a new and independent a
 
 ## General Schedule
 
-Augst 26 to September 4 - Python fundamentals
+Augst 26 to September 4 - [Python fundamentals](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/01_python_fundamentals)
 
-September 9 to September 11 - Correlation
+September 9 to September 11 - [Correlation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/02_correlation)
 
-September 16 to September 18 - Monte Carlo and stochastic simulation
+September 16 to September 18 - [Monte Carlo and stochastic simulation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/03_monte_carlo)
 
-September 23 to September 25 - Regression in time and space
+September 23 to September 25 - [Regression](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/04_regression)
 
-September 30 to October 2 - Time series analysis
+September 30 to October 2 - [Time series analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/05_time_series)
 
-October 7 to October 9 - Spectral analysis
+October 7 to October 9 - [Spectral analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/06_spectral_analysis)
 
-October 14 to October 16 - Reduced space methods
+October 14 to October 16 - [Reduced space methods](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/07_reduced_space)
 
-October 21 to October 23 - Interpolation and Gaussian Processes
+October 21 to October 23 - [Interpolation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/08_interpolation) and [Gaussian Processes](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/09_gaussian_processes)
 
-October 28 to October 30 - Introduction to Bayesian statistics
+October 28 to October 30 - [Introduction to Bayesian statistics](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/10_bayes)
+
+November 4 to November 29 - Student project work
+
+December 2 to December 4 - Final presentations
+
+December 13 - Final project and paper due
 
  
 ## Why Python? 
@@ -75,6 +81,10 @@ Although not strictly required for this course, I encourage you to use the capac
 
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Jonathan King's [Github Tutorial](https://jonking93.github.io/Github-Tutorial-Workshop/workshop/welcome). 
+
+## Interested in more? 
+
+I ofter GEOG 696C 'Spatiotemporal Data Analysis' next in Fall 2025, which goes deeply into linear algebra for statistics, empirical orthogonal function (EOF) analysis, and singular spectrum analysis.  It is also taught in Python. 
 
 ## Contact
 
