@@ -17,7 +17,7 @@ September 16 to September 18 - [Monte Carlo and stochastic simulation](https://g
 
 September 23 to September 25 - [Regression](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/04_regression)
 
-September 30 to October 2 - Time series analysis
+September 30 to October 2 - [Time series analysis](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/05_time_series)
 
 October 7 to October 9 - Spectral analysis
 
