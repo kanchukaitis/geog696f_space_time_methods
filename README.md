@@ -25,7 +25,7 @@ October 14 to October 16 - [Reduced space methods](https://github.com/kanchukait
 
 October 21 to October 23 - [Interpolation](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/08_interpolation) and [Gaussian Processes](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/09_gaussian_processes)
 
-October 28 to October 30 - Introduction to Bayesian statistics
+October 28 to October 30 - [Introduction to Bayesian statistics](https://github.com/kanchukaitis/geog696f_space_time_methods/tree/main/10_bayes)
 
 November 4 to November 29 - Student project work
 
